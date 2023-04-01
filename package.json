@@ -1,0 +1,17 @@
+{
+  "name": "12-_penktadienis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4312 --host=localhost"
+  },
+  "keywords": [],
+  "author": "Jurgita",
+  "license": "MIT",
+  "devDependencies": {
+    "dead": "^0.0.2",
+    "dead-server": "^1.0.9",
+    "server": "^1.0.38"
+  }
+}
